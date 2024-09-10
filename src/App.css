@@ -1,0 +1,16 @@
+.App
+{
+    width:max-content;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: fixed;
+    left: 40%;
+    top:25%;
+    background-color: rgb(21, 7, 7);
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    border-radius: 5px;
+}

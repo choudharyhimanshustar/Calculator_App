@@ -1,0 +1,24 @@
+.Numbers
+{
+    text-align: center;
+}
+
+.NumbersBox
+{
+   width:40px;
+   height: 40px;
+   background-color:rgb(191, 145, 235);
+   padding:1%;
+   border-radius: 2.5px;
+   cursor: pointer;
+}
+
+.NumRow
+{
+    display: flex;
+    flex-direction: row;
+    gap:5px;
+    margin:1%;
+    align-items: center;
+    font-size: large;
+}
